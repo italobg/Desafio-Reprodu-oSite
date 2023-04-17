@@ -1,12 +1,12 @@
 # Desafio-ReproducaoSite
 
-__ __Repositório do desafio de reprodução de site com HTML, CSS e Bootstrap.__ __
+__Repositório do desafio de reprodução de site com HTML, CSS e Bootstrap.__
 https://italobg.github.io/Desafio-ReproducaoSite/
 
-__ __Programas utilizados:__ __ Adobe Photoshop, VS Code
+__Programas utilizados:__ Adobe Photoshop, VS Code
 
 
-__ __Referências:__ __
+__Referências:__
 
 Mockup do site: https://br.freepik.com/psd-gratuitas/conceito-de-paginas-de-destino-veterinarias_7033095.htm
 
