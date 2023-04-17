@@ -1,0 +1,18 @@
+Fonte: 
+font-family: 'Poppins', sans-serif;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+
+
+Cores: 
+Amarelo #fcc302	
+Amarelo intenso #daac00
+Branco #f3f1f4
+Azul #00bec9
+cinza: #343434
+
+sites de referencias:
+https://seres.vet/sobre-nos
+https://www.petz.com.br/
