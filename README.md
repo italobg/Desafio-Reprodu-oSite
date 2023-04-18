@@ -3,10 +3,7 @@
 __Repositório do desafio de reprodução de site com HTML, CSS e Bootstrap.__
 LINK: https://italobg.github.io/Desafio-ReproducaoSite/
 
-__Início:__ 13/04/23 - __Término:__ 17/04/23
-
 __Programas utilizados:__ Adobe Photoshop, VS Code
-
 
 __Referências:__
 
@@ -19,6 +16,8 @@ Logo: https://br.freepik.com/vetores-premium/giro-de-mao-desenhada-gato-patas-em
 Get Booststrap: navbar e cards
 
 Google Fonts: font-family: 'Poppins', sans-serif;
+
+__Criado entre 13 a 17/04/23__
 
 
 
