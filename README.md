@@ -1,4 +1,4 @@
-# Desafio-ReproducaoSite
+# Desafio-site
 
 __Repositório do desafio de reprodução de site com HTML, CSS e Bootstrap.__
 LINK: https://italobg.github.io/Desafio-ReproducaoSite/
