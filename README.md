@@ -1,7 +1,8 @@
 # Desafio-ReproducaoSite
 
 __Repositório do desafio de reprodução de site com HTML, CSS e Bootstrap.__
-LINK: https://italobg.github.io/Desafio-ReproducaoSite/
+
+LINK: https://italobg.github.io/desafio-site/
 
 __Programas utilizados:__ Adobe Photoshop, VS Code
 
